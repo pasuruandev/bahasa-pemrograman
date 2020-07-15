@@ -1,11 +1,11 @@
-## Kumpulan Tutor Bahasa Pemrograman
+## Kumpulan Tutorial Bahasa Pemrograman
 
 Selamat datang, Devs.
 
-Repo ini didedikasikan berisi tentang pengajaran/tutorial sederhana tentang bahasa pemrogram yang ditulis secara kolaboratif diatas format markdown.
+Repo ini didedikasikan sebagai pengajaran/tutorial sederhana tentang bahasa pemrograman yang ditulis secara kolaboratif diatas format markdown.
 
 ### Tujuan 
-Repo ini dibangun untuk memudahkan kawan-kawan untuk mencari tutorial pemrograman dan mempelajari bahasa pemrograman lainya.
+Repo ini dibangun untuk memudahkan kawan-kawan untuk mencari tutorial pemrograman dan mempelajari bahasa pemrograman lainnya.
 
 Serta, demi kebebasan informasi untuk edukasi dan pencerdasaan bersama.
 ```
@@ -30,8 +30,8 @@ Everyone should learn code, it teach how to think
 
 - Letakan tutorial di folder dan tempat yang tepat:
 	- misal : `/ruby/[01]-pengenalan_ruby.md`
-	
-- Tambahkan kedaftar isi agar mudah dicari, contohnya pada bagian Bahasa yang tersedia.
+
+- Tambahkan ke daftar isi agar mudah dicari, contohnya pada bagian "Bahasa yang tersedia" diatas.
 
 - Gunakan bahasa yang mudah dimengerti dan tidak mengandung kalimat tidak senonoh.
 
@@ -40,7 +40,7 @@ Everyone should learn code, it teach how to think
 
 - Fork Repo Ini
 - Clone hasil fork repo ini , ke local anda
-- // Tambahkan apa yang ingin anda lakukan
+- Tambahkan apa yang ingin Anda lakukan
 - Commit
 - New PR
 
