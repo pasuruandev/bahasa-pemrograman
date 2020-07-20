@@ -24,7 +24,11 @@ Everyone should learn code, it teach how to think
 
 - [Go](./go)
 	- [01 Pengenalan Go](./go/[01]-pengenalan_go.md)
-	- [WIP] 
+	- [WIP]
+	
+- [Javascript](./javascript)
+	- [01 Pengenalan Javascript](./javascript/[01]-pengenalan_javascript.md)
+	- [WIP]
 
 #### Standarisasi Penulisan
 
