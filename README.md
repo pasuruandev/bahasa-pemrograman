@@ -16,8 +16,14 @@ Everyone should learn code, it teach how to think
 ### Bahasa yang tersedia
 
 - [Ruby](./ruby)
+	- [01 Pengenalan Ruby](./ruby/[01]-pengenalan_ruby.md)
+	- [02 Variable](./ruby/[02]-variable.md)
+	- [03 Tipe Data](./ruby/[03]-tipe_data.md)
+	- [04 Operator](./ruby/[04]-operator.md)
 	- [WIP]
+
 - [Go](./go)
+	- [01 Pengenalan Go](./go/[01]-pengenalan_go.md)
 	- [WIP] 
 
 #### Standarisasi Penulisan

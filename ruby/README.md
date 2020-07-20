@@ -18,3 +18,4 @@ Bila tidak punya interpreter, bisa coba ruby secara online di [REPL.it](https://
 - [01 Pengenalan Ruby](./[01]-pengenalan_ruby.md)
 - [02 Variable](./[02]-variable.md)
 - [03 Tipe Data](./[03]-tipe_data.md)
+- [04 Operator](./[04]-operator.md)
