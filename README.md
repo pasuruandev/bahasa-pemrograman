@@ -24,7 +24,8 @@ Everyone should learn code, it teach how to think
 
 - [Go](./go)
 	- [01 Pengenalan Go](./go/[01]-pengenalan_go.md)
-	- [WIP] 
+	- [02 Variable Go](./go/[02]-variable_go.md) 
+	- [03 Konstanta Go](./go/[03]-konstanta_go.md)
 
 #### Standarisasi Penulisan
 
