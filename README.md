@@ -26,6 +26,9 @@ Everyone should learn code, it teach how to think
 	- [01 Pengenalan Go](./go/[01]-pengenalan_go.md)
 	- [02 Variable Go](./go/[02]-variable_go.md) 
 	- [03 Konstanta Go](./go/[03]-konstanta_go.md)
+	
+- [HTML](./html)
+	- [01 Pengenalan HTML](./html/[01]-pengenalan_html.md)
 
 #### Standarisasi Penulisan
 
