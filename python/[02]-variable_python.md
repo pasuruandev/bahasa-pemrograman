@@ -19,24 +19,24 @@ nilai_kelima = float()
 nilai_keenam = str()
 
 ```
-Cara pertama bisa disebut `Assignment Values` dengan cara kita membuat variable disertai dengan nilainya.
+Cara pertama bisa disebut `Assignment Values` dengan cara kita membuat variable disertai dengan nilainya. <br>
 Cara kedua bisa disebut `Garbage Values` dengan cara kita membuat variable tanpa ada nilainya tapi disertai tipe data yang akan dimasukkan
 
 `Python` memiliki banyak tipe data, kali ini saya akan membahas beberapa tipe data. Untuk penjelasan lebih lengkapnya nantikan saja
-1. int
+1. int <br>
 int adalah tipe data bilangan bulat. Contoh 1, 2, 3
 ```python
 contoh_satu = 1
 contoh_dua = int()
 ```
-2. float
+2. float <br>
 float adalah tipe data bilangan pecahan atau real. Contoh 1.1, 2.5, 3.
 ```python
 contoh_tiga = 2.5
 contoh_empat = 3.
 contoh_lima = float()
 ```
-3. string
+3. string <br>
 string adalah tipe data kalimat atau kata. Contoh "Hello World", "Welcome PasDev".
 ```python
 contoh_enam = "Hello World"
@@ -48,7 +48,7 @@ Untuk membedakan antara string dengan yang lain, perhatikan bahwa string memilik
 string_satu = "10"
 bukan_string = 10
 ```
-4. bool
+4. bool <br>
 bool adalah tipe data yang menyimpan nilai 1 atau 0 / True atau False.
 ```python
 contoh_delapan = True
@@ -56,6 +56,31 @@ contoh_sembilan = False
 contoh_sepuluh = bool()
 ```
 
+## Conversion Variable
+`Python` memili kemampuan untuk merubah tipe data sesuai apa yang kita inginkan
+```python
+<variable baru> = <tipe data>(<variable	lama)
+
+# Contoh
+ini_string = "10"
+
+# Semisal dirubah ke int
+ini_int = int(ini_string)
+# Maka nilai ini_int menjadi int
+
+# Untuk cek tipe data bisa menggunakan
+print(type(<variable>))
+# Contoh
+
+print(type(ini_int))
+# Maka outputnya adalah <class 'int'>
+
+# Salah satu error
+ini_string_baru = "Hello world"
+ini_error = int(ini_string_baru)
+# Kenapa error? karena nilai yang dimasukkan bukanlah angka tipe string, melainkan huruf
+
+```
 ## Tips and Trick
 
 `Python` mempunyai beberapa cara cepat untuk mendeklarasi variable:
