@@ -30,6 +30,10 @@ Everyone should learn code, it teach how to think
 - [HTML](./html)
 	- [01 Pengenalan HTML](./html/[01]-pengenalan_html.md)
 
+- [PYTHON](./python)
+	- [01 Pengenalan Python](./python/[01]-pengenalan_python.md)
+	- [02 Variable Python](./python/[02]-variable_python.md)
+
 #### Standarisasi Penulisan
 
 - Tambahkan materi secara terurut dan terstruktur.
