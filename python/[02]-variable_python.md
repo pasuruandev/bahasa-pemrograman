@@ -22,6 +22,40 @@ nilai_keenam = str()
 Cara pertama bisa disebut `Assignment Values` dengan cara kita membuat variable disertai dengan nilainya.
 Cara kedua bisa disebut `Garbage Values` dengan cara kita membuat variable tanpa ada nilainya tapi disertai tipe data yang akan dimasukkan
 
+`Python` memiliki banyak tipe data, kali ini saya akan membahas beberapa tipe data. Untuk penjelasan lebih lengkapnya nantikan saja
+1. int
+int adalah tipe data bilangan bulat. Contoh 1, 2, 3
+```python
+contoh_satu = 1
+contoh_dua = int()
+```
+2. float
+float adalah tipe data bilangan pecahan atau real. Contoh 1.1, 2.5, 3.
+```python
+contoh_tiga = 2.5
+contoh_empat = 3.
+contoh_lima = float()
+```
+3. string
+string adalah tipe data kalimat atau kata. Contoh "Hello World", "Welcome PasDev".
+```python
+contoh_enam = "Hello World"
+contoh_enam = ""
+contoh_tujuh = str()
+```
+Untuk membedakan antara string dengan yang lain, perhatikan bahwa string memiliki tanda petik dua (") diantara kata tersebut.
+```python
+string_satu = "10"
+bukan_string = 10
+```
+4. bool
+bool adalah tipe data yang menyimpan nilai 1 atau 0 / True atau False.
+```python
+contoh_delapan = True
+contoh_sembilan = False
+contoh_sepuluh = bool()
+```
+
 ## Tips and Trick
 
 `Python` mempunyai beberapa cara cepat untuk mendeklarasi variable:
@@ -35,7 +69,7 @@ c = "Hello"
 d = True
 
 # after
-a, b, c, d = 10, 1, "Hello", True
+a, b, c, d = 10, 1.5, "Hello", True
 
 # Menukar variable
 a = 10
