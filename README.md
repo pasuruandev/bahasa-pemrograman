@@ -24,7 +24,15 @@ Everyone should learn code, it teach how to think
 
 - [Go](./go)
 	- [01 Pengenalan Go](./go/[01]-pengenalan_go.md)
-	- [WIP]
+	- [02 Variable Go](./go/[02]-variable_go.md) 
+	- [03 Konstanta Go](./go/[03]-konstanta_go.md)
+	
+- [HTML](./html)
+	- [01 Pengenalan HTML](./html/[01]-pengenalan_html.md)
+
+- [PYTHON](./python)
+	- [01 Pengenalan Python](./python/[01]-pengenalan_python.md)
+	- [02 Variable Python](./python/[02]-variable_python.md)
 	
 - [Javascript](./javascript)
 	- [01 Pengenalan Javascript](./javascript/[01]-pengenalan_javascript.md)
