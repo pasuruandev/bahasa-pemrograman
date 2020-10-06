@@ -34,6 +34,9 @@ Everyone should learn code, it teach how to think
 	- [01 Pengenalan Python](./python/[01]-pengenalan_python.md)
 	- [02 Variable Python](./python/[02]-variable_python.md)
 
+- [KOTLIN](./kotlin)
+	- [01 Pengenalan Kotlin](./kotlin/[01]-pengenalan-kotlin.md)
+
 #### Standarisasi Penulisan
 
 - Tambahkan materi secara terurut dan terstruktur.
