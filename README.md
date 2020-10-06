@@ -1,3 +1,9 @@
+<div align='center'>
+
+![typescript-rest-api](https://raw.githubusercontent.com/ssembara/bahasa-pemrograman/master/cover.png)
+
+</div>
+
 ## Kumpulan Tutorial Bahasa Pemrograman
 
 Selamat datang, Devs.
