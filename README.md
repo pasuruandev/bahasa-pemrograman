@@ -29,6 +29,7 @@ Everyone should learn code, it teach how to think
 	
 - [HTML](./html)
 	- [01 Pengenalan HTML](./html/[01]-pengenalan_html.md)
+	- [02 Menampilkan Gambar Di Html](./[02]-menampilkan_gambar_di_html.md)
 
 - [PYTHON](./python)
 	- [01 Pengenalan Python](./python/[01]-pengenalan_python.md)
