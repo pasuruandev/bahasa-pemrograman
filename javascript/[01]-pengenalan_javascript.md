@@ -1,18 +1,24 @@
-<<<<<<< HEAD
+### Bahasa Javascript
 
-# Apa Itu JavaScript?
+Pada awalnya, bahasa Javascript dibuat dengan tujuan agar laman web menjadi lebih interaktif. Namun pada perkembangannya, Javascript menjadi bahasa yang naik daun, sangat digemari dan banyak dipakai untuk membuat sebuah program. Karena Javascript kini mampu berjalan di berbagai macam _platform_, seperti web browser, server (backend), mobile app, desktop app, perangkat iOT, dll. Itulah kenapa profesi sebagai Javascript Engineer saat ini sangat dibutuhkan dan besar peluangnya.
 
-JavaScript merupakan bahasa pemogramman tingkat tinggi dan dinamis, kode javascript dapat disisipkan dalam halaman web dengan tag SCRIPT ,penulisan JavaScript ada beberapa salah satunya:
+Contoh aplikasi yang bisa dibuat dengan Javascript adalah:
 
-### Variable dan Menampilkan Hasil
+**1. Web App**<br>
+Ya, sesuai tujuan awal diciptakannya bahasa ini, yaitu untuk membuat laman web lebih interaktif, tidak kaku dan tidak membosankan. Ini membuat website memiliki pengalaman pengguna yang semakin baik.
 
-```sh
-    let halo = 'Welcome JavaScript';
-    console.log(halo)
-```
+**2. Server (Backend)**<br>
+Salah satu platform yang terkenal yaitu Node JS, dimana dia menjalankan kode Javascript diluar browser alias di sisi server
 
-let itu adalah sebuah variable dan halo adalah nama variablenya dan Welcome JavaScript adalah value isinya itu bebas seterah kalian saya hanya mencontohkan, dan console.log() itu untuk mencetak hasil ke dalam console atau terminal
+**3. Mobile App**<br>
+Kini mulai banyak bermunculan _framework_ Javascript yang dapat dipakai untuk membuat aplikasi perangkat bergerak (mobile), seperti React Native, Angular, dll.
 
-### Sejarah JavaScript
+**4. Desktop App**<br>
+Tau nggak sih kalau _code editor_ Visual Studio Code sama Atom itu dibuat dengan teknologi web?
+Ya, keduanya memakai framework **Electron** yang memungkinkan kita menulis kode Javascript, HTML, dan CSS untuk membuat aplikasi desktop
 
-JavaScript pertama kali dikembangkan oleh Brendan Eich dari Netscape, awal dari namanya adalah LiveScript dan diganti menjadi JavaScript.Brendan Eich sebelumnya telah mendukung Java untuk lebih bisa dimanfaatkan para pemrogram yang non-Java.Maka dikembangkanlah bahasa pemrograman bernama LiveScript untuk mengakomodasi hal tersebut. Bahasa pemrograman inilah yang akhirnya berkembang dan diberi nama JavaScript, walaupun tidak ada hubungan bahasa antara Java dengan JavaScript.
+**5. Perangkat IoT**<br>
+Javascript kini juga merambah ke perangkat Internet of Things, salah satunya yaitu IoT.js
+
+Naah, banyak banget kan yang bisa dilakukan dengan Javascript. Biar makin kepo dan makin tau, tunggu update materi selanjutnya yaa..
+Atau kalau kamu mau kontribusi buat bantu nambahain materi Javascript ini, monggo banget dengan senang hati :D
