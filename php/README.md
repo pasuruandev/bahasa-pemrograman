@@ -27,3 +27,4 @@
 ### Konten
 
 - [01 Pengenalan PHP](./[01]-pengenalan-php.md)
+- [02 Variable & Tipe Data Pada PHP](./[02]-variable-php.md)
