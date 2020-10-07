@@ -1,3 +1,9 @@
+<div align='center'>
+
+![typescript-rest-api](https://raw.githubusercontent.com/ssembara/bahasa-pemrograman/master/cover.png)
+
+</div>
+
 ## Kumpulan Tutorial Bahasa Pemrograman
 
 Selamat datang, Devs.
@@ -29,6 +35,7 @@ Everyone should learn code, it teach how to think
 	
 - [HTML](./html)
 	- [01 Pengenalan HTML](./html/[01]-pengenalan_html.md)
+	- [02 Menampilkan Gambar Di Html](./[02]-menampilkan_gambar_di_html.md)
 
 - [PYTHON](./python)
 	- [01 Pengenalan Python](./python/[01]-pengenalan_python.md)
@@ -36,6 +43,13 @@ Everyone should learn code, it teach how to think
 
 - [KOTLIN](./kotlin)
 	- [01 Pengenalan Kotlin](./kotlin/[01]-pengenalan-kotlin.md)
+
+- [Javascript](./javascript)
+	- [01 Pengenalan Javascript](./javascript/[01]-pengenalan_javascript.md)
+	- [WIP]
+
+- [PHP](./php)
+	- [01 Pengenalan PHP](./php/[01]-pengenalan-php.md)
 
 #### Standarisasi Penulisan
 
