@@ -16,4 +16,5 @@ Url :
 ## Konten
 
 - [01 Pengenalan Kotlin] (./[01] - Pengenalan_kotlin.md)
+- [02 Variabel & Tipe Data Kotlin] (./[02] - variabel_dan_tipe_data_kotlin.md)
 
