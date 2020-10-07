@@ -34,6 +34,9 @@ Everyone should learn code, it teach how to think
 	- [01 Pengenalan Python](./python/[01]-pengenalan_python.md)
 	- [02 Variable Python](./python/[02]-variable_python.md)
 
+- [PHP](./php)
+	- [01 Pengenalan PHP](./php/[01]-pengenalan-php.md)
+
 #### Standarisasi Penulisan
 
 - Tambahkan materi secara terurut dan terstruktur.
