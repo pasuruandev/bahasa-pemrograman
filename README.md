@@ -42,7 +42,7 @@ Everyone should learn code, it teach how to think
 	- [02 Variable Python](./python/[02]-variable_python.md)
 
 - [KOTLIN](./kotlin)
-	- [01 Pengenalan Kotlin](./kotlin/[01]-pengenalan-kotlin.md)
+	- [01 Pengenalan Kotlin](./kotlin/[01]-pengenalan_kotlin.md)
 
 - [Javascript](./javascript)
 	- [01 Pengenalan Javascript](./javascript/[01]-pengenalan_javascript.md)
