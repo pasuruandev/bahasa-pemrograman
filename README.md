@@ -36,6 +36,7 @@ Everyone should learn code, it teach how to think
 
 - [PHP](./php)
 	- [01 Pengenalan PHP](./php/[01]-pengenalan-php.md)
+	- [02 Variable dan Tipe Data Pada PHP](./php/[02]-variable-php.md)
 
 #### Standarisasi Penulisan
 
