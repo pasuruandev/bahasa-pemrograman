@@ -7,3 +7,4 @@ Sebenarnya penggunaan teks editor dibebaskan karena HTML cenderung lebih sederha
 ### Konten
 
 - [01 Pengenalan Html](./[01]-pengenalan_html.md)
+- [02 Menampilkan Gambar Di Html](./[02]-menampilkan_gambar_di_html.md)

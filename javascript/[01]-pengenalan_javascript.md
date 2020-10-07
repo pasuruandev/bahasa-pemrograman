@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Apa Itu JavaScript?
 
 JavaScript merupakan bahasa pemogramman tingkat tinggi dan dinamis, kode javascript dapat disisipkan dalam halaman web dengan tag SCRIPT ,penulisan JavaScript ada beberapa salah satunya:

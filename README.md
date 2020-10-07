@@ -1,3 +1,9 @@
+<div align='center'>
+
+![typescript-rest-api](https://raw.githubusercontent.com/ssembara/bahasa-pemrograman/master/cover.png)
+
+</div>
+
 ## Kumpulan Tutorial Bahasa Pemrograman
 
 Selamat datang, Devs.
@@ -32,6 +38,7 @@ Everyone should learn code, it teach how to think
 - [HTML](./html)
 
   - [01 Pengenalan HTML](./html/[01]-pengenalan_html.md)
+  - [02 Menampilkan Gambar Di Html](./[02]-menampilkan_gambar_di_html.md)
 
 - [PYTHON](./python)
 
@@ -39,9 +46,22 @@ Everyone should learn code, it teach how to think
   - [02 Variable Python](./python/[02]-variable_python.md)
 
 - [JAVASCRIPT](./javascript)
+
   - [01 Pengenalan JavaScript](./javascript/[01]-pengenalan_javascript.md)
   - [02 Penulisan JavaScript](./javascript/[02]-Penulisan_JavaScript.md)
   - [03 Variable JavaScript](./javascript/[03]-Variable_JavaScript.md)
+
+- [KOTLIN](./kotlin)
+
+  - [01 Pengenalan Kotlin](./kotlin/[01]-pengenalan_kotlin.md)
+
+- [Javascript](./javascript)
+
+  - [01 Pengenalan Javascript](./javascript/[01]-pengenalan_javascript.md)
+  - [WIP]
+
+- [PHP](./php)
+  - [01 Pengenalan PHP](./php/[01]-pengenalan-php.md)
 
 #### Standarisasi Penulisan
 
