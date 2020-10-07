@@ -55,10 +55,6 @@ Everyone should learn code, it teach how to think
 
   - [01 Pengenalan Kotlin](./kotlin/[01]-pengenalan_kotlin.md)
 
-- [Javascript](./javascript)
-
-  - [01 Pengenalan Javascript](./javascript/[01]-pengenalan_javascript.md)
-  - [WIP]
 
 - [PHP](./php)
 
