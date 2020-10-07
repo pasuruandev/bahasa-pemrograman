@@ -1,6 +1,6 @@
 # Penulisan JavaScript
 
-JavaScript merupakan bahasa yang menggunakan SCRIPT, maka dari itu kumpulan kode javascript adalah sebuah script.JavaScript merupakan bahasa inti dari WWW(World Wide Web) selain HTML dan CSS,JavaScript membantu membuat halaman web interaktif dan dinamis. Salah satu penulisan JavaScript mengunakan HTML atau SCRIPT:
+JavaScript merupakan bahasa yang menggunakan SCRIPT, maka dari itu kumpulan kode javascript adalah sebuah script.JavaScript merupakan bahasa inti dari WWW(World Wide Web) selain HTML dan CSS,JavaScript membantu membuat halaman web interaktif dan dinamis, berikut adalah contoh menuliskan JavaScript di HTML:
 
 ```sh
  <html>
