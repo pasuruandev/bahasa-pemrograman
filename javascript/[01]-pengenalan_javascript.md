@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # Apa Itu JavaScript?
 
