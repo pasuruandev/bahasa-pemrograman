@@ -34,6 +34,10 @@ Everyone should learn code, it teach how to think
 	- [01 Pengenalan Python](./python/[01]-pengenalan_python.md)
 	- [02 Variable Python](./python/[02]-variable_python.md)
 
+- [Javascript](./javascript)
+	- [01 Pengenalan Javascript](./javascript/[01]-pengenalan_javascript.md)
+	- [WIP]
+
 #### Standarisasi Penulisan
 
 - Tambahkan materi secara terurut dan terstruktur.
