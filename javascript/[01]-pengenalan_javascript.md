@@ -2,7 +2,7 @@
 
 Pada awalnya, bahasa Javascript dibuat dengan tujuan agar laman web menjadi lebih interaktif. Namun pada perkembangannya, Javascript menjadi bahasa yang naik daun, sangat digemari dan banyak dipakai untuk membuat sebuah program. Karena Javascript kini mampu berjalan di berbagai macam _platform_, seperti web browser, server (backend), mobile app, desktop app, perangkat iOT, dll. Itulah kenapa profesi sebagai Javascript Engineer saat ini sangat dibutuhkan dan besar peluangnya.
 
-Contoh aplikasi yang  bisa dibuat dengan Javascript adalah:
+Contoh aplikasi yang bisa dibuat dengan Javascript adalah:
 
 **1. Web App**<br>
 Ya, sesuai tujuan awal diciptakannya bahasa ini, yaitu untuk membuat laman web lebih interaktif, tidak kaku dan tidak membosankan. Ini membuat website memiliki pengalaman pengguna yang semakin baik.
