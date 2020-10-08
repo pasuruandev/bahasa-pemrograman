@@ -35,25 +35,28 @@ Everyone should learn code, it teach how to think
   - [01 Pengenalan Go](./go/[01]-pengenalan_go.md)
   - [02 Variable Go](./go/[02]-variable_go.md)
   - [03 Konstanta Go](./go/[03]-konstanta_go.md)
+  
 - [HTML](./html)
 
   - [01 Pengenalan HTML](./html/[01]-pengenalan_html.md)
-  - [02 Menampilkan Gambar Di Html](./[02]-menampilkan_gambar_di_html.md)
+  - [02 Menampilkan Gambar Di Html](./html/[02]-menampilkan_gambar_di_html.md)
+  - [03 Element Html](./html/[03]-element_html.md)
 
-- [PYTHON](./python)
+- [Python](./python)
 
   - [01 Pengenalan Python](./python/[01]-pengenalan_python.md)
   - [02 Variable Python](./python/[02]-variable_python.md)
 
-- [JAVASCRIPT](./javascript)
+- [Javascript](./javascript)
 
-  - [01 Pengenalan JavaScript](./javascript/[01]-pengenalan_javascript.md)
-  - [02 Penulisan JavaScript](./javascript/[02]-Penulisan_JavaScript.md)
-  - [03 Variable JavaScript](./javascript/[03]-Variable_JavaScript.md)
+  - [01 Pengenalan Javascript](./javascript/[01]-pengenalan_javascript.md)
+  - [02 Penulisan Javascript](./javascript/[02]-Penulisan_JavaScript.md)
+  - [03 Variable Javascript](./javascript/[03]-Variable_JavaScript.md)
 
-- [KOTLIN](./kotlin)
+- [Kotlin](./kotlin)
 
   - [01 Pengenalan Kotlin](./kotlin/[01]-pengenalan_kotlin.md)
+  - [02 Variabel dan Tipe Data Kotlin](./kotlin/[02]-variabel_dan_tipe_data_kotlin.md)
 
 
 - [PHP](./php)
