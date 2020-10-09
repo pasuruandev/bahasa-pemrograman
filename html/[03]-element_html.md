@@ -9,4 +9,4 @@ Pada Element HTML pasti ada tag awal dan tag akhir, seperti contoh berikut ini :
 
 Oke sekian, sampai jumpa di part selanjutnya. hehehe
 
-<P align="center">Created by <a src="https://github.com/zaiinhs"><b>@zaiinhs.</b></a></p>
+<P align="center">Created by <a href="https://github.com/zaiinhs"><b>@zaiinhs.</b></a></p>
