@@ -68,6 +68,11 @@ Everyone should learn code, it teach how to think
 	- [02 Variable dan Tipe Data Pada PHP](./php/[02]-variable-php.md)
 
 
+- [TypeScript](./typescript)
+	- [01 Pengenalan TypeScript](./typescript/pengenalan-typescript.md)
+	- [02 Instalasi TypeScript](./typescript/instalasi_TypeScript.md)
+	- [03 Tipe Data](./typescript/tipe_data.md)
+
 #### Standarisasi Penulisan
 
 - Tambahkan materi secara terurut dan terstruktur.
