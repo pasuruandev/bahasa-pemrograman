@@ -52,8 +52,8 @@ Everyone should learn code, it teach how to think
 - [KOTLIN](./kotlin)
 	
   - [01 Pengenalan Kotlin](./kotlin/[01]-pengenalan-kotlin.md)
-	- [02 Variabel & Tipe Data Kotlin](./kotlin[02]-variabel_dan_tipe_data_kotlin.md)
-	- [03 Operator Kotlin](./kotlin[03]-operator_kotlin.md)
+  - [02 Variabel & Tipe Data Kotlin](./kotlin[02]-variabel_dan_tipe_data_kotlin.md)
+  - [03 Operator Kotlin](./kotlin[03]-operator_kotlin.md)
 
 
 - [Javascript](./javascript)
