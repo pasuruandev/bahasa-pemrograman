@@ -44,6 +44,7 @@ Everyone should learn code, it teach how to think
   - [01 Pengenalan Kotlin](./kotlin/[01]-pengenalan-kotlin.md)
   - [02 Variabel & Tipe Data Kotlin](./kotlin[02]-variabel_dan_tipe_data_kotlin.md)
   - [03 Operator Kotlin](./kotlin[03]-operator_kotlin.md)
+  - [04 Percabangan Kotlin](./kotlin[04]-percabangan_kotlin.md)
 - [Javascript](./javascript)
   - [01 Pengenalan Javascript](./javascript/[01]-pengenalan_javascript.md)
   - [02 Penulisan Javascript](./javascript/[02]-Penulisan_JavaScript.md)
@@ -56,6 +57,12 @@ Everyone should learn code, it teach how to think
   - [01 Pengenalan TypeScript](./typescript/pengenalan-typescript.md)
   - [02 Instalasi TypeScript](./typescript/instalasi_TypeScript.md)
   - [03 Tipe Data](./typescript/tipe_data.md)
+
+- [TypeScript](./typescript)
+	- [01 Pengenalan TypeScript](./typescript/pengenalan-typescript.md)
+	- [02 Instalasi TypeScript](./typescript/instalasi_TypeScript.md)
+	- [03 Tipe Data](./typescript/tipe_data.md)
+	- [04 Object](./typescript/object.md)
 
 #### Standarisasi Penulisan
 
