@@ -42,6 +42,7 @@ Everyone should learn code, it teach how to think
 - [Python](./python)
   - [01 Pengenalan Python](./python/[01]-pengenalan_python.md)
   - [02 Variable Python](./python/[02]-variable_python.md)
+  - [03 Tipe Data Python](./python/[03]-tipe_data_python.md)
 - [KOTLIN](./kotlin)
   - [01 Pengenalan Kotlin](./kotlin/[01]-pengenalan-kotlin.md)
   - [02 Variabel & Tipe Data Kotlin](./kotlin[02]-variabel_dan_tipe_data_kotlin.md)
@@ -65,6 +66,7 @@ Everyone should learn code, it teach how to think
 	- [02 Instalasi TypeScript](./typescript/instalasi_TypeScript.md)
 	- [03 Tipe Data](./typescript/tipe_data.md)
 	- [04 Object](./typescript/object.md)
+
 
 #### Standarisasi Penulisan
 
