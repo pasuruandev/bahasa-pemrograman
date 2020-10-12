@@ -42,6 +42,8 @@ Everyone should learn code, it teach how to think
   - [01 Pengenalan HTML](./html/[01]-pengenalan_html.md)
   - [02 Menampilkan Gambar Di Html](./html/[02]-menampilkan_gambar_di_html.md)
   - [03 Element Html](./html/[03]-element_html.md)
+  - [04 Link di Html](./html/[04]-link_html.md)
+  - [05 Atribut di Html](./html/[05]-atribut_html.md)
 
 - [Python](./python)
 
