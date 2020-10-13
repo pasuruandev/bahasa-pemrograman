@@ -53,6 +53,7 @@ Everyone should learn code, it teach how to think
   - [02 Penulisan Javascript](./javascript/[02]-Penulisan_JavaScript.md)
   - [03 Variable Javascript](./javascript/[03]-Variable_JavaScript.md)
   - [04 Tipe Data Javascript](./javascript/[04]-TipeData_JavaScript.md)
+  - [05 Operator Javascript](./javascript/[05]-Operator_JavaScript.md)
 - [PHP](./php)
   - [01 Pengenalan PHP](./php/[01]-pengenalan-php.md)
   - [02 Variable dan Tipe Data Pada PHP](./php/[02]-variable-php.md)
