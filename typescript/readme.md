@@ -1,0 +1,10 @@
+Daftar list modul 📝
+- [TypeScript](./)
+    - [Task](./task.ts)
+	- [01 Pengenalan TypeScript](./pengenalan-typescript.md)
+	- [02 Instalasi TypeScript](./instalasi_TypeScript.md)
+	- [03 Tipe Data](./tipe_data.md)
+	- [04 Object](./object.md)
+    - [05 Function](./function.md)
+	- [06 Class](./class.md)
+	- [Example class](./contoh_class.ts)
