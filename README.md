@@ -34,6 +34,16 @@ Everyone should learn code, it teach how to think
 	- [01 Pengenalan Python](./python/[01]-pengenalan_python.md)
 	- [02 Variable Python](./python/[02]-variable_python.md)
 
+- [TypeScript](./)
+    - [Task](./task.ts)
+	- [01 Pengenalan TypeScript](./pengenalan-typescript.md)
+	- [02 Instalasi TypeScript](./instalasi_TypeScript.md)
+	- [03 Tipe Data](./tipe_data.md)
+	- [04 Object](./object.md)
+    - [05 Function](./function.md)
+	- [06 Class](./class.md)
+	- [Example class](./contoh_class.ts)
+
 #### Standarisasi Penulisan
 
 - Tambahkan materi secara terurut dan terstruktur.
