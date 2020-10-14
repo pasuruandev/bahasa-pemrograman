@@ -53,6 +53,7 @@ Everyone should learn code, it teach how to think
   - [02 Penulisan Javascript](./javascript/[02]-Penulisan_JavaScript.md)
   - [03 Variable Javascript](./javascript/[03]-Variable_JavaScript.md)
   - [04 Tipe Data Javascript](./javascript/[04]-TipeData_JavaScript.md)
+  - [05 Operator Javascript](./javascript/[05]-Operator_JavaScript.md)
 - [Java](./java)
   - [01 Pengenalan Java](./java/[01]-pengenalanan-java.md)
   - [02 Dasar Syntax Java](./java/[02]-dasar-syntax-java.md)
@@ -76,6 +77,9 @@ Everyone should learn code, it teach how to think
   - [05 Function](./typescript/function.md)
 	- [06 Class](./typescript/class.md)
 	- [Example class](./typescript/contoh_class.ts)
+
+- [Dart](./dart)
+	- [01 Pengenalan TypeScript](./dart/[01]-pengenalan_dart.md)
 
 #### Standarisasi Penulisan
 
