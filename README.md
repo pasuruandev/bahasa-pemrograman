@@ -74,6 +74,9 @@ Everyone should learn code, it teach how to think
 	- [06 Class](./typescript/class.md)
 	- [Example class](./typescript/contoh_class.ts)
 
+- [Dart](./dart)
+	- [01 Pengenalan TypeScript](./dart/[01]-pengenalan_dart.md)
+
 #### Standarisasi Penulisan
 
 - Tambahkan materi secara terurut dan terstruktur.
