@@ -20,8 +20,9 @@ class Hello {
 diperlukan).
 
 Penjelasan perintah :
-* Class merupakan kelas yang buat oleh java.
-* Public static void main adalah method yang digunakan untuk menampilkan program
+
+* `Class` merupakan kelas yang buat oleh java.
+* `Public static void main` adalah method yang digunakan untuk menampilkan program
 yang dijalankan ke monitor.
-* String args[] adalah method yang menerima sebuah argument array bertipe string.
+* `String args[]` adalah method yang menerima sebuah argument array bertipe string.
 Untuk “args” dapat diganti sesuka hati
