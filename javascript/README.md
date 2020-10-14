@@ -1,0 +1,14 @@
+## Daftar Isi Tutorial Javascript
+
+### Instalasi Javascript
+
+Javascript sudah terinstall dan otomatis dapat digunakan pada browser
+
+### Konten
+
+- [01 Pengnalan Javascript](./[01]-pengenalan_javascript.md)
+- [02 Penulisan Javascript](./[02]-Penulisan_JavaScript.md)
+- [03 Variable Javascript](.[03]-Variable_JavaScript.md)
+- [04 Tipe Data Javascript](./[04]-TipeData_JavaScript.md)
+
+[WIP]
