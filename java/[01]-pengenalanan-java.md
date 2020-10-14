@@ -1,6 +1,9 @@
 ## Pengenalan Java
+<div align='center'>
 
 ![java](https://raw.githubusercontent.com/ssembara/bahasa-pemrograman/master/assets/java.jpg)
+
+</div>
 
 `Java` adalah bahasa pemrograman yang diciptakan oleh James Gosling dan sepenuhnya menganut paradigma OOP (Object Oriented Programming).
 
