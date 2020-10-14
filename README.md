@@ -1,6 +1,6 @@
 <div align='center'>
 
-![typescript-rest-api](https://raw.githubusercontent.com/ssembara/bahasa-pemrograman/master/cover.png)
+![cover](https://raw.githubusercontent.com/ssembara/bahasa-pemrograman/master/assets/cover.png)
 
 </div>
 
@@ -54,6 +54,9 @@ Everyone should learn code, it teach how to think
   - [03 Variable Javascript](./javascript/[03]-Variable_JavaScript.md)
   - [04 Tipe Data Javascript](./javascript/[04]-TipeData_JavaScript.md)
   - [05 Operator Javascript](./javascript/[05]-Operator_JavaScript.md)
+- [Java](./java)
+  - [01 Pengenalan Java](./java/[01]-pengenalanan-java.md)
+  - [02 Dasar Syntax Java](./java/[02]-dasar-syntax-java.md)
 - [PHP](./php)
   - [01 Pengenalan PHP](./php/[01]-pengenalan-php.md)
   - [02 Variable dan Tipe Data Pada PHP](./php/[02]-variable-php.md)
@@ -66,12 +69,12 @@ Everyone should learn code, it teach how to think
   - [01 Penngenalan Rust](./rust/[01]-pengenalan-rust.md)
 
 - [TypeScript](./typescript)
-    - [Task](./typescript/task.ts)
+  - [Task](./typescript/task.ts)
 	- [01 Pengenalan TypeScript](./typescript/pengenalan-typescript.md)
 	- [02 Instalasi TypeScript](./typescript/instalasi_TypeScript.md)
 	- [03 Tipe Data](./typescript/tipe_data.md)
 	- [04 Object](./typescript/object.md)
-    - [05 Function](./typescript/function.md)
+  - [05 Function](./typescript/function.md)
 	- [06 Class](./typescript/class.md)
 	- [Example class](./typescript/contoh_class.ts)
 
