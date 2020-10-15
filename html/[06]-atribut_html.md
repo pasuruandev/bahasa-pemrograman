@@ -13,13 +13,13 @@ Atribut digunakan untuk memberikan informasi tambahan dari [element](https://git
 
 Tag `<a>` merupakan hyperlink. Atribut `href` secara spesifik sebagai URL dari tempat tautan yang dituju:
 
-<img src="img/href-attr.svg"/>
+<img width="640" src="img/href-attr.svg"/>
 
 ### Atribut: src
 
 Tag `<img>` digunakan untuk menyematkan gambar di halaman HTML. Atribut src ditujukan sebagai jalur menuju gambar yang akan ditampilkan:
 
-<img src="img/src-attr.svg"/>
+<img width="380" src="img/src-attr.svg"/>
 
 Ada dua cara untuk menggunakan atribut `src`:
 
@@ -31,7 +31,7 @@ Ada dua cara untuk menggunakan atribut `src`:
 
 Atribut `style` berfungsi untuk menambahkan _styles_ pada [element](https://github.com/pasuruandev/bahasa-pemrograman/blob/master/html/%5B03%5D-element_html.md), seperti warna, font, ukuran, dll.
 
-<img src="img/style-attr.svg"/>
+<img width="640" src="img/style-attr.svg"/>
 
 ### Referensi
 
