@@ -8,3 +8,5 @@ Daftar list modul 📝
     - [05 Function](./function.md)
 	- [06 Class](./class.md)
 	- [Example class](./contoh_class.ts)
+	- [07 Interface](./interface.md)
+	- [Task Interface](./task_interface.ts)
