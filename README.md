@@ -43,6 +43,8 @@ Everyone should learn code, it teach how to think
     - [05 Function](./typescript/function.md)
 	- [06 Class](./typescript/class.md)
 	- [Example class](./typescript/contoh_class.ts)
+	- [07 Interface](./typescript/interface.md)
+	- [Task Interface](./typescript/task_interface.ts)
 
 #### Standarisasi Penulisan
 
