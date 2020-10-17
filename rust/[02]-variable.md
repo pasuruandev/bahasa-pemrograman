@@ -107,4 +107,16 @@ Nama: 33
 Terdapat perubahan tipe dari variable name : String menjadi Integer. Ini yang menjadi perbedaan yang jelas dari _mutable_ variable dan shadowing.
 Kapan saat ingin mengunakan shadowing ? saat tidak terlalu memerlukan variable yang berubah-ubah.
 
-[WIP]
+### Konstanta
+
+Perbedaan dari variable _immutable_, konstanta merupakan variable tidak bisa diberi sifat mutable, melakukan shadowing dan selalu immutable sekali definisikan tidak bisa diubah.
+
+`const <Nama Variable> : <Tipe Data> = <Nilai>;`
+
+contoh:
+
+```rust
+const kamu_cantik : bool = false;
+```
+
+Jadi singkatnya, konstanta bersifat immutable permanen setelah didefiniskan.
