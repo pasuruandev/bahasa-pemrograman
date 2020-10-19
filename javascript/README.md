@@ -11,5 +11,6 @@ Javascript sudah terinstall dan otomatis dapat digunakan pada browser
 - [03 Variable Javascript](./[03]-Variable_JavaScript.md)
 - [04 Tipe Data Javascript](./[04]-TipeData_JavaScript.md)
 - [05 Operator Javascript](./[05]-Operator_JavaScript.md)
+- [06 Function Javascript](./[06]-Function_JavaScript.md)
 
 [WIP]
