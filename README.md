@@ -83,8 +83,8 @@ Everyone should learn code, it teach how to think
 	- [Task Interface](./typescript/task_interface.ts)
 
 - [Dart](./dart)
-	- [01 Pengenalan TypeScript](./dart/[01]-pengenalan_dart.md)
-
+	- [01 Pengenalan Dart](./dart/[01]-pengenalan_dart.md)
+  - [02 Variable Dart](./dart/[02]-variable_dart.md)
 #### Standarisasi Penulisan
 
 - Tambahkan materi secara terurut dan terstruktur.
