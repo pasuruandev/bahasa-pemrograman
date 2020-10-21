@@ -18,7 +18,7 @@ int b = 9;
 print(a+b); // 21
 ```
 
-###Opertor Perbandingan
+###Operator Perbandingan
 Untuk membandingan 2 buah nilai untuk menghasilkan nilai benar atau salah
 ![Sumber: Kodetr.com](https://www.kodetr.com/res/simbol_perbandingan.png)
 
