@@ -6,7 +6,7 @@ Seperti pada operasi berikut => 10 + 6. Angka 10 dan 6 adalah `operand` dan + ad
 Berikut macam - macam operator dalam bahasa pemrograman dart
 
 ### Operator Aritmatika
-Fungsi operator ini adalah melakukan opearsi aritmatika seperti tambah, kali, kurang, bagi.
+Fungsi operator ini adalah melakukan operasi aritmatika seperti tambah, kali, kurang, bagi.
 ![Sumber: Kodetr.com](https://www.kodetr.com/res/simbol_aritmatika.png)
 
 Contoh Kode
