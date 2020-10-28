@@ -38,3 +38,23 @@ if(syarat) {
 
 }
 ```
+
+### Contoh Program
+```dart
+var bil = 11;
+
+if( bil % 2 == 0 ) {
+    // Jika variable bil bilangan genap
+    print("$bil adalah bilangan genap");
+}
+
+else if(bil % 2 == 1) {
+    // Jika variable bil bilangan ganjil
+    print("$bil adalah bilangan ganjil");
+}
+
+else {
+    // Jika variable bil bukan sebuah bilangan 
+    print("$bil bukan bilangan");
+}
+```
