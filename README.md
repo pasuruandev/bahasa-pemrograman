@@ -83,6 +83,7 @@ Everyone should learn code, it teach how to think
   - [03 Operarator Dart](./dart/[03]-operarator_dart.md)
   - [04 Percabangan Dart](./dart/[04]-percabangan_dart.md)
   - [05 Fungsi Dart](./dart/[05]-function_dart.md)
+  - [06 Konstanta & Final Dart](./dart/[06]-constants_dan_final_dart.md)
 #### Standarisasi Penulisan
 
 - Tambahkan materi secara terurut dan terstruktur.
