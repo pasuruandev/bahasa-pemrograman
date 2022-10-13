@@ -35,8 +35,8 @@ setelah itu kita buat variabel jumlah untuk menjumlahkan dua angka yang di input
 
 ```python
 # Memasukkan Inputan Angka
-angka1 = input('Tulis angka pertama: ')
-angka2 = input('Tulis angka kedua: ')
+angka1 = input('Masukkan angka pertama: ')
+angka2 = input('Masukkan angka kedua: ')
 
 # Mengkonversi Angka lalu Menjumlahkannya
 jumlah = int(angka1) + int(angka2)
@@ -49,8 +49,8 @@ atau bisa menggunakan cara di bawah ini
 
 ```python
 # Memasukkan Inputan Angka sekaligus mengkonversi
-angka1 = int(input('Tulis angka pertama: '))
-angka2 = int(input('Tulis angka kedua: '))
+angka1 = int(input('Masukkan angka pertama: '))
+angka2 = int(input('Masukkan angka kedua: '))
 
 # Menjumlahkan
 jumlah = angka1 + angka2
@@ -61,7 +61,9 @@ print(f'Hasil Penjumlahan {angka1} dan {angka2} adalah {jumlah}')
 
 Jika dijalankan, hasilnya kurang lebih akan seperti ini:
 
-```Tulis angka pertama: 1
-Tulis angka kedua: 12
-Hasil Penjumlahan 1 dan 12 adalah 13```
+```
+Masukkan angka pertama: 1
+Masukkan angka kedua: 12
+Hasil Penjumlahan 1 dan 12 adalah 13
+```
 
