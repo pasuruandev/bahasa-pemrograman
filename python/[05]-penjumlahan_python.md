@@ -5,7 +5,7 @@ Python dapat kita gunakan sebagai kalkulator sederhana dengan menggunakan :
 - operator + untuk penjumlahan
 - operator - untuk pengurangan
 - operator * untuk perkalian
-- opearator / untuk pembagian
+- operator / untuk pembagian
 
 tanda kurung () dapat digunakan untuk pengelompokan
 
