@@ -2,23 +2,25 @@
 
 Python dapat kita gunakan sebagai kalkulator sederhana dengan menggunakan :
 
-operator + untuk penjumlahan
-operator - untuk pengurangan
-opeartor * untuk perkalian
-opeartor / untuk pembagian
+- operator + untuk penjumlahan
+- operator - untuk pengurangan
+- operator * untuk perkalian
+- opearator / untuk pembagian
 
 tanda kurung () dapat digunakan untuk pengelompokan
 
 Sebagai contoh:
 
-```>>> 2 + 2
+```
+>>> 2 + 2
 4
 >>> 50 - 5*6
 20
 >>> (50 - 5*6) / 4
 5.0
 >>> 8 / 5  # pembagian selalu mengembalikan angka dengan tipe float
-1.6```
+1.6
+```
 
 
 setelah kita memahami operator pada bahasa pemrograman python, mari kita implementasikan dengan membuat program sederhana sesuai apa yang sudah kita pelajari pada materi sebelumnya.
