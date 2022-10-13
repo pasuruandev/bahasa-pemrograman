@@ -45,6 +45,7 @@ Everyone should learn code, it teach how to think
   - [02 Variable Python](./python/[02]-variable_python.md)
   - [03 Tipe Data Python](./python/[03]-tipe_data_python.md)
   - [04 Input Output Python](./python/[04]-input_output_python.md)
+  - [05 Penjumlahan Python](./python/[05]-penjumlahan_python.md)
 - [KOTLIN](./kotlin)
   - [01 Pengenalan Kotlin](./kotlin/[01]-pengenalan-kotlin.md)
   - [02 Variabel & Tipe Data Kotlin](./kotlin[02]-variabel_dan_tipe_data_kotlin.md)
