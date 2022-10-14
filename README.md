@@ -1,6 +1,6 @@
 <div align='center'>
 
-![cover](https://raw.githubusercontent.com/ssembara/bahasa-pemrograman/master/assets/cover.png)
+![cover](https://raw.githubusercontent.com/imamsutono/bahasa-pemrograman/master/assets/cover.png)
 
 </div>
 
