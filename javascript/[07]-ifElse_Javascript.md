@@ -9,23 +9,11 @@ Statemen if digunakan dalam suatu blok kode pilihan yang akan di eksekusi jika k
 **Contoh:**
 
 ```sh
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Statemen if</title>
-</head>
-<body>
-    <script>
-        var nilai = prompt("Berapa nilai anda?", 0);
+var nilai = prompt("Berapa nilai anda?", 0);
 
-        if(umur > 75){
-            document.write("<h2>Selamat, anda lolos</h2>");
-        }
-
-        document.write("<p>Maaf anda belum lolos, belajar lebih giat ya</p>");
-    </script>
-</body>
-</html>
+if(nilai > 75){
+    document.write("Selamat, anda lolos");
+}
 ```
 
 ## Statemen if else
@@ -35,23 +23,13 @@ Statemen if else digunakan dalam dua blok kode pilihan yang akan di eksekusi, pi
 **Contoh:**
 
 ```sh
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Statemen if/else</title>
-</head>
-<body>
-    <script>
-        var password = prompt("Masukkan password:");
+var password = prompt("Masukkan password:");
 
-        if(password == "helloworld"){
-            document.write("<h2>Selamat datang di Land of Dawn</h2>");
-        } else {
-            document.write("<p>Password salah, silahkan coba lagi</p>");
-        }
-    </script>
-</body>
-</html>
+if(password == "helloworld"){
+    document.write("Selamat datang di Land of Dawn");
+} else {
+    document.write("Password salah, silahkan coba lagi");
+}
 ```
 
 ## Statemen else if
@@ -61,27 +39,17 @@ Statemen else if digunakan untuk memilih kondisi baru di blok kode saat kondisi 
 **Contoh:**
 
 ```sh
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Statemen else if</title>
-</head>
-<body>
-    <script>
-        var time = prompt("Jam berapa sekarang?");
+var time = prompt("Jam berapa sekarang?");
 
-        if (time < 10) {
-            document.write("<h2>Selamat pagi</h2>");
-        } else if (time < 15) {
-            document.write("<h2>Selamat siang</h2>");
-        } else if (time < 18){
-            document.write("<h2>Selamat sore</h2>");
-        } else {
-            document.write("<h2>Selamat malam</h2>");
-        }
-    </script>
-</body>
-</html>
+if (time < 10) {
+    document.write("Selamat pagi");
+} else if (time < 15) {
+    document.write("Selamat siang");
+} else if (time < 18){
+    document.write("Selamat sore");
+} else {
+    document.write("Selamat malam");
+}
 ```
 
 ## Referensi
