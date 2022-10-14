@@ -20,6 +20,7 @@
 - [Codeigniter](https://codeigniter.com/)
 - [Yii](https://www.yiiframework.com)
 - [Zend Framework](https://framework.zend.com/)
+- [Phalcon](https://phalcon.io/)
 - [02Framework](https://o2system.id/), Yang satu ini buatan Indonesia loh.
 
 - dan masih banyak lagi
