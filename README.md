@@ -1,6 +1,6 @@
 <div align='center'>
 
-![cover](https://raw.githubusercontent.com/ssembara/bahasa-pemrograman/master/assets/cover.png)
+![cover](https://raw.githubusercontent.com/imamsutono/bahasa-pemrograman/master/assets/cover.png)
 
 </div>
 
@@ -61,6 +61,7 @@ Everyone should learn code, it teach how to think
   - [04 Tipe Data Javascript](./javascript/[04]-TipeData_JavaScript.md)
   - [05 Operator Javascript](./javascript/[05]-Operator_JavaScript.md)
   - [06 Function Javascript](./javascript/[06]-Function_JavaScript.md)
+  - [07 If Else Javascript](./javascript/[07]-ifElse_JavaScript.md)
   - [08 Object Javascript](./javascript/[08]-Object_JavaScript.md)
 - [Java](./java)
   - [01 Pengenalan Java](./java/[01]-pengenalanan-java.md)
