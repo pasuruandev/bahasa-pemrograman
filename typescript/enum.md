@@ -4,21 +4,21 @@
 Enum memiliki 2 tipe yaitu **numeric** dan **string** <br />
 Berikut beberapa jenis enum yang bisa kita implement di project yang dibuat :
 
-#### Enum Numeric ( Default)
+#### :crown: Enum Numeric ( Default)
 Secara default, enum akan menginisialisasi nilai pertama dengan nilai 0 dan menambahkan 1 ke setiap nilai berikutnya.
 ```ts
 enum BookCategory {
-  Technology,
-  Design,
-  Marketing,
-  Research
+    Technology,
+    Design,
+    Marketing,
+    Research
 }
 
 const BookTech = BookCategory.Technology
-console.log(BookTech) // Output 0, karena default value enum adalah 0
+console.log(BookTech) :white_check_mark: // Output 0, karena default value enum adalah 0
 ```
 
-#### Enum Numeric ( Initialized)
+#### :crown: Enum Numeric ( Initialized)
 Sama seperti enum sebelumnya, beda nya kita bisa mengatur nilai enum numerik pertama dan membuatnya otomatis bertambah dari itu :
 ```ts
 enum BookCategory {
@@ -29,10 +29,10 @@ enum BookCategory {
 }
 
 const BookMarketing = BookCategory.Marketing
-console.log(BookMarketing) // Output 10, karena default value numerik pertama adalah 8
+console.log(BookMarketing) :white_check_mark: // Output 10, karena default value numerik pertama adalah 8
 ```
 
-#### Enum Numeric ( Fully Initialized)
+#### :crown: Enum Numeric ( Fully Initialized)
 Enum numeric diinisialisasi sepenuhnya adalah kita dapat menetapkan nilai angka unik untuk setiap nilai enum. Maka nilainya tidak akan bertambah secara otomatis :
 ```ts
 enum TechTeamId {
@@ -43,10 +43,10 @@ enum TechTeamId {
 }
 
 const getInfraTeamId = TechTeamId.Infrastructure
-console.log(getInfraTeamId) // output 484 , karena nilai enum infra sudah diinisialisasikan dengan nilai 484
+console.log(getInfraTeamId) :white_check_mark: // output 484 , karena nilai enum infra sudah diinisialisasikan dengan nilai 484
 ```
 
-**Contoh lain**<br />
+:pushpin: **Contoh lain**<br />
 Kita bisa mengkombinasikan enum dengan interface untuk memperkuat tipe dari sebuah object data
 ```ts
 enum BookCategory {
@@ -57,20 +57,20 @@ enum BookCategory {
 }
 
 interface BookTech {
-	id: number,
-	title: stringcategory: BookCategory.Technology,
+    id: number,
+    title: string,
+    category: BookCategory.Technology,
     description?: string
 }
 
 const Pragmatic : BookTech  = {
-
-id: 10,
+    id: 10,
     title: "Pragmatic Programming",
     category: BookCategory.Technology,
 }
 
-console.log(Pragmatic) // output { id: 10, title: 'Pragmatic Programming', category: 440 }
+console.log(Pragmatic) :white_check_mark: // output { id: 10, title: 'Pragmatic Programming', category: 440 }
 ```
 
-**Conclusion**<br />
-Dengan Enum kita bisa menggunakannya untuk mewakili sebuah nilai atau kondisi. Seperti Id Team, BookCategory, StatusCode dll.
+:bookmark_tabs: **Conclusion**<br />
+Dengan Enum kita bisa menggunakannya untuk mewakili sebuah nilai atau kondisi. Seperti Id Team, BookCategory, StatusCode, OrderStatus ( Waiting Payment, Pending, Success and Failed ) dll.
