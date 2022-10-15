@@ -2,8 +2,8 @@
 __Lua__ adalah bahasa pemrograman *scripting* ringan yang mendukung *procedural programming*, *object oriented programming* serta *functional programming*.
 __Lua__ digunakan di berbagai aplikasi seperti *Adobe's Photoshop Lightroom*, *World of Warcraft*, dan *Angry Birds*. __Lua__ terkenal sebagai bahasa pemrograman yang digunakan untuk membuat *games*.
 
-##Instalasi Lua
-1. Masuk ke website (Lua Binaries Download)[www.luabinaries.sourceforge.net/download.html]
+## Instalasi Lua
+1. Masuk ke website [Lua Binaries Download](www.luabinaries.sourceforge.net/download.html)
 2. Pilih LuaBinaries yang ter-*update* (saat ini versi 5.4.2) sesuai dengan sistem operasi komputer kalian.
 3. Untuk OS Windows, gunakan __lua-5.4.2_Win64_bin.zip__.
 4. Setelah diunduh, ekstrak file tersebut, kemudian *rename* menjadi __lua__.
