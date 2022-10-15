@@ -73,4 +73,4 @@ console.log(Pragmatic) ✅ // output { id: 10, title: 'Pragmatic Programming', c
 ```
 
 :bookmark_tabs: **Conclusion**<br />
-Dengan Enum kita bisa menggunakannya untuk mewakili sebuah nilai atau kondisi. Seperti Id Team, BookCategory, StatusCode, OrderStatus ( Waiting Payment, Pending, Success and Failed ) dll.
+Dengan Enum kita bisa menggunakannya untuk mewakili sebuah nilai atau kondisi. Seperti Id Team, BookCategory, StatusCode, OrderStatus ( Waiting Payment, Pending, Success and Failed ) dll
