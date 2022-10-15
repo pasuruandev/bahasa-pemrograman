@@ -15,7 +15,7 @@ enum BookCategory {
 }
 
 const BookTech = BookCategory.Technology
-console.log(BookTech) :white_check_mark: // Output 0, karena default value enum adalah 0
+console.log(BookTech) ✅ // Output 0, karena default value enum adalah 0
 ```
 
 #### :crown: Enum Numeric ( Initialized)
@@ -29,7 +29,7 @@ enum BookCategory {
 }
 
 const BookMarketing = BookCategory.Marketing
-console.log(BookMarketing) :white_check_mark: // Output 10, karena default value numerik pertama adalah 8
+console.log(BookMarketing) ✅ // Output 10, karena default value numerik pertama adalah 8
 ```
 
 #### :crown: Enum Numeric ( Fully Initialized)
@@ -43,7 +43,7 @@ enum TechTeamId {
 }
 
 const getInfraTeamId = TechTeamId.Infrastructure
-console.log(getInfraTeamId) :white_check_mark: // output 484 , karena nilai enum infra sudah diinisialisasikan dengan nilai 484
+console.log(getInfraTeamId) ✅ // output 484 , karena nilai enum infra sudah diinisialisasikan dengan nilai 484
 ```
 
 :pushpin: **Contoh lain**<br />
@@ -69,7 +69,7 @@ const Pragmatic : BookTech  = {
     category: BookCategory.Technology,
 }
 
-console.log(Pragmatic) :white_check_mark: // output { id: 10, title: 'Pragmatic Programming', category: 440 }
+console.log(Pragmatic) ✅ // output { id: 10, title: 'Pragmatic Programming', category: 440 }
 ```
 
 :bookmark_tabs: **Conclusion**<br />
