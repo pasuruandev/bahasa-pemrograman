@@ -12,10 +12,6 @@ Javascript sudah terinstall dan otomatis dapat digunakan pada browser
 - [04 Tipe Data Javascript](./[04]-TipeData_JavaScript.md)
 - [05 Operator Javascript](./[05]-Operator_JavaScript.md)
 - [06 Function Javascript](./[06]-Function_JavaScript.md)
-<<<<<<< HEAD
-- [08 Object Javascript](./[08]-Object_JavaScript.md)
-=======
 - [07 If Else Javascript](./[07-ifElse_javascript.md])
->>>>>>> 6c2bc0127591b6dea771ad93b5dcf8b670e461c3
 
 [WIP]

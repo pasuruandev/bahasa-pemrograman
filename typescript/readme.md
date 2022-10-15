@@ -10,4 +10,3 @@ Daftar list modul 📝
 	  - [Example class](./contoh_class.ts)
 	- [07 Interface](./interface.md)
 	  - [Task Interface](./task_interface.ts)
-	- [08 Enum](./enum.md)

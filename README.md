@@ -62,7 +62,6 @@ Everyone should learn code, it teach how to think
   - [05 Operator Javascript](./javascript/[05]-Operator_JavaScript.md)
   - [06 Function Javascript](./javascript/[06]-Function_JavaScript.md)
   - [07 If Else Javascript](./javascript/[07]-ifElse_JavaScript.md)
-  - [08 Object Javascript](./javascript/[08]-Object_JavaScript.md)
 - [Java](./java)
   - [01 Pengenalan Java](./java/[01]-pengenalanan-java.md)
   - [02 Dasar Syntax Java](./java/[02]-dasar-syntax-java.md)
