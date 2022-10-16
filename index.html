@@ -1,0 +1,37 @@
+<html lang="en">
+
+<head>
+    <title>Event JavaScript</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+</head>
+
+<body>
+
+    <button id="mouseOver">Contoh Mouse Over</button>
+    <button id="mouseEnter">Contoh Mouse Enter</button>
+    <button id="mouseOut">Contoh Mouse Out</button>
+
+    <script type="text/javascript">
+        // Mentarget element button berdasarkan Id
+        const buttonMouseOver = document.getElementById("mouseOver")
+        const buttonMouseEnter = document.getElementById("mouseEnter")
+        const buttonMouseOut = document.getElementById("mouseOut")
+
+        // Handle event mouseover
+        buttonMouseOver.addEventListener("mouseover", function() {
+            console.log("Button Mouse Over", new Date())
+        })
+
+        // Handle event mouseenter
+        buttonMouseEnter.addEventListener("mouseenter", function() {
+            console.log("Button Mouse Enter", new Date())
+        })
+
+        // Handle event mouseout
+        buttonMouseOut.addEventListener("mouseout", function() {
+            console.log("Button Mouse Out", new Date())
+        })
+    </script>
+</body>
+
+</html>

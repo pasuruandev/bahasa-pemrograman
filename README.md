@@ -14,7 +14,7 @@ Repo ini didedikasikan sebagai pengajaran atau tutorial sederhana tentang bahasa
 
 Repo ini dibangun untuk memudahkan kawan-kawan untuk mencari tutorial pemrograman dan mempelajari bahasa pemrograman lainnya.
 
-Serta, demi kebebasan informasi untuk edukasi dan pencerdasaan bersama.
+Serta, demi kebebasan informasi untuk edukasi dan pencerdasan bersama.
 
 ```
 Everyone should learn code, it teach how to think
@@ -61,6 +61,8 @@ Everyone should learn code, it teach how to think
   - [04 Tipe Data Javascript](./javascript/[04]-TipeData_JavaScript.md)
   - [05 Operator Javascript](./javascript/[05]-Operator_JavaScript.md)
   - [06 Function Javascript](./javascript/[06]-Function_JavaScript.md)
+  - [07 If Else Javascript](./javascript/[07]-ifElse_JavaScript.md)
+  - [08 Object Javascript](./javascript/[08]-Object_JavaScript.md)
 - [Java](./java)
   - [01 Pengenalan Java](./java/[01]-pengenalanan-java.md)
   - [02 Dasar Syntax Java](./java/[02]-dasar-syntax-java.md)
@@ -68,6 +70,7 @@ Everyone should learn code, it teach how to think
 - [PHP](./php)
   - [01 Pengenalan PHP](./php/[01]-pengenalan-php.md)
   - [02 Variable dan Tipe Data Pada PHP](./php/[02]-variable-php.md)
+  - [03 Percabangan Pada PHP](./php/[03]-conditional-php.md)
 - [Rust](./rust)
   - [01 Penngenalan Rust](./rust/[01]-pengenalan-rust.md)
   - [02 Variable](./rust/[02]-variable.md)
@@ -81,6 +84,7 @@ Everyone should learn code, it teach how to think
     - [Example class](./typescript/contoh_class.ts)
   - [07 Interface](./typescript/interface.md)
     - [Task Interface](./typescript/task_interface.ts)
+  - [08 Enum](./typescript/enum.md)
   - [Task](./typescript/task.ts)
 - [Dart](./dart)
 	- [01 Pengenalan Dart](./dart/[01]-pengenalan_dart.md)
