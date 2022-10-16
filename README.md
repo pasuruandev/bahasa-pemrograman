@@ -14,7 +14,7 @@ Repo ini didedikasikan sebagai pengajaran atau tutorial sederhana tentang bahasa
 
 Repo ini dibangun untuk memudahkan kawan-kawan untuk mencari tutorial pemrograman dan mempelajari bahasa pemrograman lainnya.
 
-Serta, demi kebebasan informasi untuk edukasi dan pencerdasaan bersama.
+Serta, demi kebebasan informasi untuk edukasi dan pencerdasan bersama.
 
 ```
 Everyone should learn code, it teach how to think
@@ -70,6 +70,7 @@ Everyone should learn code, it teach how to think
 - [PHP](./php)
   - [01 Pengenalan PHP](./php/[01]-pengenalan-php.md)
   - [02 Variable dan Tipe Data Pada PHP](./php/[02]-variable-php.md)
+  - [03 Percabangan Pada PHP](./php/[03]-conditional-php.md)
 - [Rust](./rust)
   - [01 Penngenalan Rust](./rust/[01]-pengenalan-rust.md)
   - [02 Variable](./rust/[02]-variable.md)

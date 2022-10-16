@@ -14,5 +14,4 @@ Javascript sudah terinstall dan otomatis dapat digunakan pada browser
 - [06 Function Javascript](./[06]-Function_JavaScript.md)
 - [07 If Else Javascript](./[07-ifElse_javascript.md])
 - [08 Object Javascript](./[07-Object_javascript.md])
-
 [WIP]
