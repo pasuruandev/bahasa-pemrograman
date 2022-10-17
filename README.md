@@ -64,6 +64,7 @@ Everyone should learn code, it teach how to think
   - [07 If Else Javascript](./javascript/[07]-ifElse_JavaScript.md)
   - [08 Object Javascript](./javascript/[08]-Object_JavaScript.md)
   - [09 Events Javascript](./javascript/[09]-Events_JavaScript.md)
+  - [10 String Javascript](./javascript/[10]-String_JavaScript.md)
 - [Java](./java)
   - [01 Pengenalan Java](./java/[01]-pengenalanan-java.md)
   - [02 Dasar Syntax Java](./java/[02]-dasar-syntax-java.md)
