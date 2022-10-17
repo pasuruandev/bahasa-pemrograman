@@ -1,4 +1,4 @@
-## The PHP foreach Loop
+## PHP - Foreach Loop
 Foreach loop hanya bisa digunakan untuk array dan digunakan untuk mengambil key & value dari array tersebut.
 
 Syntax
