@@ -15,5 +15,6 @@ Javascript sudah terinstall dan otomatis dapat digunakan pada browser
 - [07 If Else Javascript](./[07]-ifElse_Javascript.md)
 - [08 Object Javascript](./[08]-Object_Javascript.md)
 - [09 Events JavaScript](./[09]-Events_JavaScript.md)
+- [10 String JavaScript](./[10]-String_JavaScript.md)
 
 [WIP]
