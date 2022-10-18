@@ -12,6 +12,9 @@ Javascript sudah terinstall dan otomatis dapat digunakan pada browser
 - [04 Tipe Data Javascript](./[04]-TipeData_JavaScript.md)
 - [05 Operator Javascript](./[05]-Operator_JavaScript.md)
 - [06 Function Javascript](./[06]-Function_JavaScript.md)
-- [07 If Else Javascript](./[07-ifElse_javascript.md])
-- [08 Object Javascript](./[07-Object_javascript.md])
+- [07 If Else Javascript](./[07]-ifElse_Javascript.md)
+- [08 Object Javascript](./[08]-Object_Javascript.md)
+- [09 Events JavaScript](./[09]-Events_JavaScript.md)
+- [10 String JavaScript](./[10]-String_JavaScript.md)
+
 [WIP]
