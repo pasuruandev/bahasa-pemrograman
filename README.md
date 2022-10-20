@@ -78,6 +78,7 @@ Everyone should learn code, it teach how to think
 - [Rust](./rust)
   - [01 Penngenalan Rust](./rust/[01]-pengenalan-rust.md)
   - [02 Variable](./rust/[02]-variable.md)
+  - [03 Inverensi](./rust/[03]-inferensi.md)
 - [TypeScript](./typescript)
   - [01 Pengenalan TypeScript](./typescript/pengenalan-typescript.md)
   - [02 Instalasi TypeScript](./typescript/instalasi_TypeScript.md)
