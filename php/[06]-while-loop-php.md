@@ -1,4 +1,4 @@
-While Loop
+## While Loop
 while loop mengeksekusi blok kode selama kondisi bernilai true
 
 Syntax
@@ -8,7 +8,6 @@ while (condition is true) {
 }
 ```
 
-Examples
 Contoh dibawah ini menampilkan angka dari 1 - 5 :
 ```php
 <?php
@@ -21,7 +20,9 @@ while($x <= 5) {
 ?>
 ```
 
+```
 Penjelasan Contoh
 $x = 1; - Inisialisasi nilai $x = 1
 $x <= 5 - Melanjutkan looping selama $x kurang dari atau sama dengan 5
 $x++; - Menambah nilai $x disetiap perulangan
+```
