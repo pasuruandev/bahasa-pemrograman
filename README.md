@@ -75,6 +75,7 @@ Everyone should learn code, it teach how to think
   - [03 Percabangan Pada PHP](./php/[03]-conditional-php.md)
   - [04 Foreach Loop Pada PHP](./php/[04]-foreach-loop-php.md)
   - [05 For Loop Pada PHP](./php/[05]-for-loop-php.md)
+  - [06 While Loop Pada PHP](./php/[06]-while-loop-php.md)
 - [Rust](./rust)
   - [01 Penngenalan Rust](./rust/[01]-pengenalan-rust.md)
   - [02 Variable](./rust/[02]-variable.md)
