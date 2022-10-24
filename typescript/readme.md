@@ -11,3 +11,4 @@ Daftar list modul 📝
 	- [07 Interface](./interface.md)
 	  - [Task Interface](./task_interface.ts)
 	- [08 Enum](./enum.md)
+	- [09 Optional Parameters](./optionalParameter.md)

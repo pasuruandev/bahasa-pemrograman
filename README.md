@@ -91,6 +91,7 @@ Everyone should learn code, it teach how to think
   - [07 Interface](./typescript/interface.md)
     - [Task Interface](./typescript/task_interface.ts)
   - [08 Enum](./typescript/enum.md)
+  - [09 Optional Parameters](./typescript/optionalParameter.md)
   - [Task](./typescript/task.ts)
 - [Dart](./dart)
 	- [01 Pengenalan Dart](./dart/[01]-pengenalan_dart.md)
