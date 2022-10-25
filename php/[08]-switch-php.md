@@ -1,5 +1,5 @@
 
-#Switch Statement PHP
+## Switch Statement PHP
 Switch statement digunakan untuk melakukan tindakan yang berbeda berdasarkan kondisi yang berbeda.
 Gunakan switch statement untuk memilih salah satu case dari code yang akan dieksekusi.
 
