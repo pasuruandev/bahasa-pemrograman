@@ -34,3 +34,4 @@
 - [05 For Loop Pada PHP](./[05]-for-loop-php.md)
 - [06 While Loop Pada PHP](./[06]-while-loop-php.md)
 - [07 Do While Loop Pada PHP](./[07]-do-while-loop-php.md)
+- [08 Switch Case Pada PHP](./[08]-switch-loop-php.md)

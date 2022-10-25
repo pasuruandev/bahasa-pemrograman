@@ -73,6 +73,7 @@ Everyone should learn code, it teach how to think
   - [05 For Loop Pada PHP](./php/[05]-for-loop-php.md)
   - [06 While Loop Pada PHP](./php/[06]-while-loop-php.md)
   - [07 Do While Loop Pada PHP](./php/[07]-do-while-loop-php.md)
+  - [08 Switch Pada PHP](./php/[08]-switch-php.md)
 - [Rust](./rust)
   - [01 Penngenalan Rust](./rust/[01]-pengenalan-rust.md)
   - [02 Variable](./rust/[02]-variable.md)
