@@ -11,7 +11,7 @@ String method yang digunakan untuk menghitung panjang karakter sebuah string.
 Contohnya seperti ini,
 ```js
 const  namaKomunitas  =  "PasuruanDev"
-console.log(`${namaKomunitas,length} karakter`) // 11 karakter
+console.log(`${namaKomunitas.length} karakter`) // 11 karakter
 ```
 
 
