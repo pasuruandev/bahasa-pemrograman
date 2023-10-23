@@ -66,6 +66,7 @@ Everyone should learn code, it teach how to think
   - [09 Events Javascript](./javascript/[09]-Events_JavaScript.md)
   - [10 String Javascript](./javascript/[10]-String_JavaScript.md)
   - [11 String Methods Javascript](./javascript/[11]-String_Methods_JavaScript.md)
+  - [12 Number Methods Javascript](./javascript/[12]-Number_Methods_JavaScript.md)
 - [Java](./java)
   - [01 Pengenalan Java](./java/[01]-pengenalanan-java.md)
   - [02 Dasar Syntax Java](./java/[02]-dasar-syntax-java.md)
