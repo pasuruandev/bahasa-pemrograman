@@ -69,6 +69,7 @@ Everyone should learn code, it teach how to think
   - [12 Number Methods Javascript](./javascript/[12]-Number_Methods_JavaScript.md)
   - [13 Array Javascript](./javascript/[13]-Array_JavaScript.md)
   - [14 Array Methods Javascript](./javascript/[14]-Array_Method_JavaScript.md)
+  - [15 Math Function Javascript](./javascript/[15]-Math_Function_JavaScript.md)
 - [Java](./java)
   - [01 Pengenalan Java](./java/[01]-pengenalanan-java.md)
   - [02 Dasar Syntax Java](./java/[02]-dasar-syntax-java.md)
