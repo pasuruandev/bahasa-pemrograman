@@ -12,3 +12,4 @@ Daftar list modul 📝
 	  - [Task Interface](./task_interface.ts)
 	- [08 Enum](./enum.md)
 	- [09 Optional Parameters](./optionalParameter.md)
+ 	- [10 Union dan Intersection](./union_dan_intersection.md)
