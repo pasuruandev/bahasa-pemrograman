@@ -99,9 +99,11 @@ Everyone should learn code, it teach how to think
     - [Task Interface](./typescript/task_interface.ts)
   - [08 Enum](./typescript/enum.md)
   - [09 Optional Parameters](./typescript/optionalParameter.md)
+  - [10 Union dan Intersection](./typescript/union_dan_intersection.md)
+  - [11 Type Aliases](./typescript/type_aliases.md)
   - [Task](./typescript/task.ts)
 - [Dart](./dart)
-	- [01 Pengenalan Dart](./dart/[01]-pengenalan_dart.md)
+  - [01 Pengenalan Dart](./dart/[01]-pengenalan_dart.md)
   - [02 Variable Dart](./dart/[02]-variable_dart.md)
   - [03 Operarator Dart](./dart/[03]-operarator_dart.md)
   - [04 Percabangan Dart](./dart/[04]-percabangan_dart.md)
@@ -109,6 +111,7 @@ Everyone should learn code, it teach how to think
   - [06 Konstanta & Final Dart](./dart/[06]-constants_dan_final_dart.md)
   - [07 For Dart](./dart/[07]-for_dart.md)
   - [08 While do-While](./dart/[08]-do_while_dart.md)
+
 #### Standarisasi Penulisan
 
 - Tambahkan materi secara terurut dan terstruktur.
