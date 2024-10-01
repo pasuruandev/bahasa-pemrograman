@@ -14,3 +14,4 @@ Daftar list modul 📝
   - [08 Enum](./enum.md)
   - [09 Optional Parameters](./optionalParameter.md)
   - [10 Union dan Intersection](./union_dan_intersection.md)
+  - [11 Type Aliases](./type_aliases.md)
