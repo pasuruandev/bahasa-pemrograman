@@ -6,11 +6,13 @@ dapat bertipe lokal ataupun global yang disesuaikan dengan kebutuhan program.
 
 Contoh :</br>
 
+`tipeData namaVariabel;`</br>
 `String name;`
 
 Untuk mengisi nilai variabel : </br>
 
-`String name = "Sebastianus Sembara"`
+`tipeData namaVariabel = nilai;`</br>
+`String name = "Sebastianus Sembara";`
 
 ### Tipe Data
 
@@ -24,9 +26,11 @@ Pada umumnya komputer hanya mengenal 3 jenis tipe data, yaitu:
 Java mengenal dua jenis data :
 * Tipe data primitif yaitu tipe data yang diadopsi dari tipe data klasik. Tipe data ini
 diadopsi dari berbagai bahasa pendahulu java yaitu C++ dan pascal.
+Contoh tipe data: `byte, short, int, long, float, double, boolean, char`.
+
 * Tipe data objek yaitu tipe data berbentuk class yang merupakan ciri khas dari
 pemrograman berorientasi objek. Banyak dari tipe data ini yang diselesaikan untuk
-mendukung operasional data primitive.</br>
+mendukung operasional data primitive. Contoh : `String, Array, class`</br>
 
 <div align='center'>
 
@@ -36,7 +40,7 @@ mendukung operasional data primitive.</br>
 
 | Tipe Data | Deskripsi | Ukuran | Minimum | Maximum 
 | ----------- | ----------- | ----------- | ----------- | -----------
-| Boolean | Hanya berisi benar dan salah | 1-bit | - | - 
+| Boolean | Hanya berisi true dan false | 1-bit | - | - 
 | Char | Karakter unicode | 16-bit | - | - 
 | Byte | Bilangan bulat | 8-bit | -127 | 128 
 | Short | Bilangan bulat | 16-bit | -32768 | 32767 
@@ -44,3 +48,9 @@ mendukung operasional data primitive.</br>
 | Long | Bilangan bulat | 64-bit | -9223372036854775808 | 9223372036854775807 
 | Float | Bilangan riil | 32-bit | 1.40129846432481707e45 | 3.40282346638528860e+38
 | Double | Bilangan riil | 64-bit | 4.94065645841246544e324 | 1.79769313486231570e+308
+
+note* : Untuk tipe data long setelah nilai harus diakhiri huruf `L`</br>
+`contoh : long a = 10000000000L;`<br>
+juga untuk `double` dan `float` harus diakhiri `d` untuk double, `f` untuk float.
+
+Selanjutnya : [komentar](./[04]-komentar-java.md)

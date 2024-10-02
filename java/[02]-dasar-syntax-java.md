@@ -5,7 +5,7 @@ Pada bagian ini kita akan mengenal syntax dasar pada java, yaitu struktur class
 ```
 class Hello {
     public static void main(String args[]) {
-        // code here ...
+        System.out.println("Hello World");
     }
 }
 ```
@@ -19,10 +19,12 @@ class Hello {
 * Karakter yang diperbolehkan hanya huruf di awal kata dan angka setelah huruf (jika
 diperlukan).
 
-Penjelasan perintah :
+Penjelasan Systax :
 
-* `Class` merupakan kelas yang buat oleh java.
-* `Public static void main` adalah method yang digunakan untuk menampilkan program
-yang dijalankan ke monitor.
+* `class` merupakan kelas yang buat oleh java. class merupakan hal yang wajib di Java.
+* `public static void main` adalah method(fungsi) yang akan menjadi titik awal program java akan dieksekusi.
 * `String args[]` adalah method yang menerima sebuah argument array bertipe string.
-Untuk “args” dapat diganti sesuka hati
+Untuk “args” dapat diganti sesuka hati.
+* `System.out.println()` salah satu cara untuk menampilkan sesuatu ke konsol.
+
+Selanjutnya : [variabel](./[03]-variabel-java.md)
