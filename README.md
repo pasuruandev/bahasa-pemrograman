@@ -102,6 +102,7 @@ Everyone should learn code, it teach how to think
   - [09 Optional Parameters](./typescript/optionalParameter.md)
   - [10 Union dan Intersection](./typescript/union_dan_intersection.md)
   - [11 Type Aliases](./typescript/type_aliases.md)
+  - [12 Type Assertion](./typescript/type_assertion.md)
   - [Task](./typescript/task.ts)
 - [Dart](./dart)
   - [01 Pengenalan Dart](./dart/[01]-pengenalan_dart.md)
