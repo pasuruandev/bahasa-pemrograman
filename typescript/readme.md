@@ -15,3 +15,4 @@ Daftar list modul 📝
   - [09 Optional Parameters](./optionalParameter.md)
   - [10 Union dan Intersection](./union_dan_intersection.md)
   - [11 Type Aliases](./type_aliases.md)
+  - [12 Type Assertion](./type_assertion.md)
