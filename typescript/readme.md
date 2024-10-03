@@ -16,3 +16,4 @@ Daftar list modul 📝
   - [10 Union dan Intersection](./union_dan_intersection.md)
   - [11 Type Aliases](./type_aliases.md)
   - [12 Type Assertion](./type_assertion.md)
+  - [13 Type Inference](./type_inference.md)
