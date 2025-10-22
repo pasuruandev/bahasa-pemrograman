@@ -1,6 +1,6 @@
 <div align='center'>
 
-![cover](https://raw.githubusercontent.com/ssembara/bahasa-pemrograman/master/assets/cover.png)
+![cover](https://raw.githubusercontent.com/imamsutono/bahasa-pemrograman/master/assets/cover.png)
 
 </div>
 
@@ -14,7 +14,7 @@ Repo ini didedikasikan sebagai pengajaran atau tutorial sederhana tentang bahasa
 
 Repo ini dibangun untuk memudahkan kawan-kawan untuk mencari tutorial pemrograman dan mempelajari bahasa pemrograman lainnya.
 
-Serta, demi kebebasan informasi untuk edukasi dan pencerdasaan bersama.
+Serta, demi kebebasan informasi untuk edukasi dan pencerdasan bersama.
 
 ```
 Everyone should learn code, it teach how to think
@@ -61,29 +61,51 @@ Everyone should learn code, it teach how to think
   - [04 Tipe Data Javascript](./javascript/[04]-TipeData_JavaScript.md)
   - [05 Operator Javascript](./javascript/[05]-Operator_JavaScript.md)
   - [06 Function Javascript](./javascript/[06]-Function_JavaScript.md)
+  - [07 If Else Javascript](./javascript/[07]-ifElse_JavaScript.md)
+  - [08 Object Javascript](./javascript/[08]-Object_JavaScript.md)
+  - [09 Events Javascript](./javascript/[09]-Events_JavaScript.md)
+  - [10 String Javascript](./javascript/[10]-String_JavaScript.md)
+  - [11 String Methods Javascript](./javascript/[11]-String_Methods_JavaScript.md)
+  - [12 Number Methods Javascript](./javascript/[12]-Number_Methods_JavaScript.md)
+  - [13 Array Javascript](./javascript/[13]-Array_JavaScript.md)
+  - [14 Array Methods Javascript](./javascript/[14]-Array_Method_JavaScript.md)
+  - [15 Math Function Javascript](./javascript/[15]-Math_Function_JavaScript.md)
 - [Java](./java)
   - [01 Pengenalan Java](./java/[01]-pengenalanan-java.md)
   - [02 Dasar Syntax Java](./java/[02]-dasar-syntax-java.md)
   - [03 Variabel Java](./java/[03]-variabel-java.md)
+  - [04 Komentar Java](./java/[04]-komentar-java.md)
 - [PHP](./php)
   - [01 Pengenalan PHP](./php/[01]-pengenalan-php.md)
   - [02 Variable dan Tipe Data Pada PHP](./php/[02]-variable-php.md)
+  - [03 Percabangan Pada PHP](./php/[03]-conditional-php.md)
+  - [04 Foreach Loop Pada PHP](./php/[04]-foreach-loop-php.md)
+  - [05 For Loop Pada PHP](./php/[05]-for-loop-php.md)
+  - [06 While Loop Pada PHP](./php/[06]-while-loop-php.md)
+  - [07 Do While Loop Pada PHP](./php/[07]-do-while-loop-php.md)
+  - [08 Switch Pada PHP](./php/[08]-switch-php.md)
 - [Rust](./rust)
   - [01 Penngenalan Rust](./rust/[01]-pengenalan-rust.md)
   - [02 Variable](./rust/[02]-variable.md)
+  - [03 Inverensi](./rust/[03]-inferensi.md)
 - [TypeScript](./typescript)
-  - [Task](./typescript/task.ts)
-	- [01 Pengenalan TypeScript](./typescript/pengenalan-typescript.md)
-	- [02 Instalasi TypeScript](./typescript/instalasi_TypeScript.md)
-	- [03 Tipe Data](./typescript/tipe_data.md)
-	- [04 Object](./typescript/object.md)
+  - [01 Pengenalan TypeScript](./typescript/pengenalan-typescript.md)
+  - [02 Instalasi TypeScript](./typescript/instalasi_TypeScript.md)
+  - [03 Tipe Data](./typescript/tipe_data.md)
+  - [04 Object](./typescript/object.md)
   - [05 Function](./typescript/function.md)
-	- [06 Class](./typescript/class.md)
-	- [Example class](./typescript/contoh_class.ts)
-	- [07 Interface](./typescript/interface.md)
-	- [Task Interface](./typescript/task_interface.ts)
+  - [06 Class](./typescript/class.md)
+    - [Example class](./typescript/contoh_class.ts)
+  - [07 Interface](./typescript/interface.md)
+    - [Task Interface](./typescript/task_interface.ts)
+  - [08 Enum](./typescript/enum.md)
+  - [09 Optional Parameters](./typescript/optionalParameter.md)
+  - [10 Union dan Intersection](./typescript/union_dan_intersection.md)
+  - [11 Type Aliases](./typescript/type_aliases.md)
+  - [12 Type Assertion](./typescript/type_assertion.md)
+  - [Task](./typescript/task.ts)
 - [Dart](./dart)
-	- [01 Pengenalan Dart](./dart/[01]-pengenalan_dart.md)
+  - [01 Pengenalan Dart](./dart/[01]-pengenalan_dart.md)
   - [02 Variable Dart](./dart/[02]-variable_dart.md)
   - [03 Operarator Dart](./dart/[03]-operarator_dart.md)
   - [04 Percabangan Dart](./dart/[04]-percabangan_dart.md)
@@ -91,6 +113,7 @@ Everyone should learn code, it teach how to think
   - [06 Konstanta & Final Dart](./dart/[06]-constants_dan_final_dart.md)
   - [07 For Dart](./dart/[07]-for_dart.md)
   - [08 While do-While](./dart/[08]-do_while_dart.md)
+
 #### Standarisasi Penulisan
 
 - Tambahkan materi secara terurut dan terstruktur.
